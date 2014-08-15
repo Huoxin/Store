@@ -1,0 +1,9 @@
+存储如何附加到平台是整体存储架构的关键。三个常见的架构涵盖了绝大多数模型：
+
+    直接附加存储（Direct-attached storage，DAS）
+    存储区域网络（Storage area networks，SAN）
+    网络附加存储（Network-attached storage，NAS）
+    
+
+参考 Linux 与存储生态环境
+http://www.ibm.com/developerworks/cn/linux/l-linux-storage/index.html
